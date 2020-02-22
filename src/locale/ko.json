@@ -1,0 +1,381 @@
+{
+  "language": {
+    "_title": "한국어",
+    "langs": [
+      {
+        "name": "English",
+        "tag": "en"
+      },
+      {
+        "name": "中文",
+        "tag": "zh"
+      },
+      {
+        "name": "한국어",
+        "tag": "ko"
+      }
+    ]
+  },
+  "nav": [
+    {
+      "name": "홈페이지",
+      "path": "top"
+    },
+    {
+      "name": "개발자",
+      "path": "https://github.com/marcopoloprotocol"
+    },
+    {
+      "name": "백서",
+      "path": "m-footer"
+    },
+    {
+      "name": "다운로드",
+      "path": "http://www.marcopolopay.org/download"
+    }
+  ],
+  "nav2": {
+    "name1": "홈페이지",
+    "name2": "소개",
+    "name3": "프로젝트 로드맵"
+  },
+  "home": {
+    "banner": {
+      "_title": "새로운 유형의 피어 투 피어 전자 현금 시스템",
+      "desc": ["마르코폴로 프로토콜 (MarcoPolo Protocol)은 새로운 P2P 전자 현금 시스템 인프라로, SoftBank와 같은 유명한 투자 기관의 투자를 받았습니다. 프로젝트는 일련의 기술 메커니즘을 통해 블록 체인 세계 퍼블릭 체인 TPS 공유 및 지능형 스케줄링을 달성하는 것을 목표로합니다. 전체 블록 체인 세계의 거래 플랫폼 인 P2P 전자 현금 시스템 애플리케이션은 무제한TPS확장 및 전체 블록 체인 네트워크 최적의 GAS를 이용할수 있습니다.", "개발자는 Gravity Interoperability오픈 소스 모듈을 기반으로 크로스 체인 피어 투 피어 전자 현금 애플리케이션을 개발할 수 있습니다. 협력 네트워크를 기반으로하는 동남아시아, 동아시아 및 북미의 많은 가맹점과 서비스 제공 업체는 모든 디지털 통화에 액세스 할 수 있습니다."]
+    },
+    "roadmap": {
+      "_title": "프로젝트 로드맵",
+      "content": {
+        "1": [
+          "상호운용성  모듈 Gravity를 개발 완성 했으며, Gravity는 BTC 및 ETH와 같은 디지털 통화를 3세대 고성능 하이브리드 컨센서스 퍼블릭체인 트루체인(TrueChain)과 상호운영하여 TrueChain의 컴퓨팅과 성능을 공휴하였습니다."
+        ],
+        "2": [
+          "소매 지불 애플리케인션 Marco Pay출시",
+          "POB 커뮤니티 거버넌스 DAPP CandyJungle"
+        ],
+        "3": [
+          "독립적으로 개발한 Marcopolo메인넷 StandardChain이 출시하여  APOS, 체인 관리, InteractChain 아키텍처 디자인을 실현한다."
+        ],
+        "4": [
+          "이구(异构) 크로스 체인 운영성을 실현하고 체인 간 리소스 공유를 실한다."
+        ]
+      },
+      "content1": {
+        "1": [
+          "2019.Q1  Gravity:"
+        ],
+        "2": [
+          "2019.Q3 Electromagnet:"
+        ],
+        "3": [
+          "2020.Q4 Interaction:"
+        ],
+        "4": [
+          "2022.Q2 Grand Unification"
+        ]
+      },
+      "mcont": [
+        {
+          "stage": "첫 단계 2019.Q1",
+          "intr": "Gravity:",
+          "desc": [
+            "상호 운용성 모듈 Gravity의 개발이 완성되었고 Gravity는 BTC 및 ETH와 같은 합의가 강한 디지털 통화와 3세대 고성능 퍼블릭 체인과 상호 운용성을 구현하여 컴퓨팅 파어과 성능을 공유하며 향후 상호 운용성을 통해 점차 더 많은 고성능 퍼블릭 체인으로 확장될 것입니다."
+          ]
+        },
+        {
+          "stage": "두 번째 단계 2019.Q3",
+          "intr": "Electromagnet:",
+          "desc": [
+            "소매 지불 애플리케인션 Marco Pay출시",
+            "POB 커뮤니티 거버넌스 DAPP"
+          ]
+        },
+        {
+          "stage": "세 번째 단계 2020.Q4",
+          "intr": "Interaction:",
+          "desc": [
+            "독립적으로 개발한 Marcopolo메인넷 StandardChain이 출시하여  APOS, 체인 관리, InteractChain 아키텍처 디자인을 실현한다."
+          ]
+        },
+        {
+          "stage": "네 번째 단계 2022.Q2",
+          "intr": "Grand Unification:",
+          "desc": [
+            "이구(异构) 크로스 체인 운영성을 실현하고 체인 간 리소스 공유를 실한다."
+          ]
+        }
+      ]
+    },
+    "info": {
+      "mTitleA": "马可波罗网络的愿景",
+      "mTitleB": "마르코폴로의 기술 아키텍처 특성",
+      "mTitleC": "혁신적인 경제 모델",
+      "mTitleD": "P2P 전자 현금 애플리케이션의 인프라",
+      "mTitleE": "상륙 응용 프로그램 및 연구 개발 병행",
+      "vTitleA": "完成中本聪的点对点现金支付梦想",
+      "descriptionA": "通过互操作行共享整合全球公链算力，让点对点数字现金支付系统实现支持广泛币种，超高TPS，趋近于0的GAS费和绝对安全。真正成为具有广泛可用性的点对点数字现金支付网络",
+      "descriptionB": "마르코폴로는 （MAP） 네트워크는 일련의 개방형 프로토콜 및 인프라를 통해 여러 퍼블릭 체인에서 P2P 현금 시스템을 운영하고 조정하는 것을 지원합니다.",
+      "descriptionC": "혁신적인 의 APoS 컨센서스 메커니즘은 다양한 디지털 통화가 참여하는것을 허용하고 대량의 장기간 인센티브로 유저 컨센서스 보호, 생태발전, 개발자모임등에게 보장을 제공합니다. 이 모든것은 체인 거버넌스의 방식으로 진행되어 커뮤니티 공건, 공동관리, 윈윈을 실현한다,",
+      "descriptionD": "마르코폴로는 （MAP） 피어 투 피어 전자 현금 소매 지불, DEX, DeFi 3가지 피어 투 피어 현금 애플리케이션에게 개방적인 말단네트워크를 제공한다. 애플리케이션의 개발자는 더 편리하게 기초기술 모듈을 실현할 수 있고 고성능을 실현 할 수 있다.",
+      "descriptionE": "MAP는 이미 상호운용 최소 모듈 Gravity의 연구개발을 완성하였고 이것을 기반으로 2개의 애플리케이션을 개발되여 생태 애들리케이션 개발자에게 방대한 트래픽 및 기본 시나리오의 구축을 제공합니다.",
+      "listA": [
+        {
+          "img": "a1",
+          "mImg":"ma1",
+          "desc": [
+            "기술 메커니즘을 통해 각 퍼블릭 체인의 리소스를 공유하고 퍼블릭 체인의 지속적인 개발로 전반적인 TPS 확장 달성"
+          ]
+        },
+        {
+          "img": "a2",
+          "mImg":"ma2",
+          "desc": [
+            "디지털 통화간의 거래는 자동으로 가장 낮은 GAS, 효율이 가장 높은 퍼블릭 체인으로 진행 "
+          ]
+        },
+        {
+          "img": "a3",
+          "mImg":"ma3",
+          "desc": [
+            "전체 크립토 세계를 커버하여, 비트코인, 이데리움, EOS, TRUE 및 기타 퍼블릭 체인 및 디지털 통화를 포함"
+          ]
+        },
+        {
+          "img": "a4",
+          "mImg":"ma4",
+          "desc": [
+            "DPayment, DEX, DeFi와 같은 피어 투 피어 현금 시스템 애플리케이션을 위한 기술 인프라 제공"
+          ]
+        }
+      ],
+      "listB": [
+        {
+          "img": "b1",
+          "mImg":"mb1",
+          "desc": [
+            "APoS 컨센서스 프로토콜"
+          ]
+        },
+        {
+          "img": "b2",
+          "mImg":"mb2",
+          "desc": [
+            "HotStuff 통신 프로토콜"
+          ]
+        },
+        {
+          "img": "b3",
+          "mImg":"mb3",
+          "desc": [
+            "Magellan크로스 체인 스케줄링 프로토콜"
+          ]
+        },
+        {
+          "img": "b4",
+          "mImg":"mb4",
+          "desc": [
+            "IBC 체인간 커뮤니케이션 "
+          ]
+        },
+        {
+          "img": "b5",
+          "mImg":"mb5",
+          "desc": [
+            "InteractChain원격 프로시저 스케줄링"
+          ]
+        },
+        {
+          "img": "b6",
+          "mImg":"mb6",
+          "desc": [
+            "안전한 랜덤수 모델"
+          ]
+        }
+      ],
+      "listC": [
+        {
+          "img": "c1",
+          "mImg":"mc1",
+          "desc": [
+            "Asset Proof of Staking",
+            "말단기술이 여러가지 디지털 통화가 컨센서스의 참여를 지지하고, 더 개방적이고 더 안전하다. "
+          ]
+        },
+        {
+          "img": "c2",
+          "mImg":"mc2",
+          "desc": [
+            "Proof of Building",
+            "DApp형식으로 존재하여, 커뮤니티 공건을 자극한다"
+          ]
+        },
+        {
+          "img": "c3",
+          "mImg":"mc3",
+          "desc": [
+            "애플리케이션 발전 거버넌스 메커니즘",
+            "체인상 거버넌스 메커니즘을 통하여 애플리케이션의 발전을 추진하고 컴퓨팅 파워 및 애플리케이션 인센티브는 모두 중점이다. "
+          ]
+        },
+        {
+          "img": "c4",
+          "mImg":"mc4",
+          "desc": [
+            "기술공헌자 인센티브 메커니즘",
+            "체인상 거버넌스 인센티브로 전세계 개발자의 공동참여를 이끈다."
+          ]
+        }
+      ],
+      "listD": [
+        {
+          "img": "d1",
+          "mImg":"md1",
+          "desc": [
+            "Dpayment"
+          ]
+        },
+        {
+          "img": "d2",
+          "mImg":"md2",
+          "desc": [
+            "DEX"
+          ]
+        },
+        {
+          "img": "d3",
+          "mImg":"md3",
+          "desc": [
+            "DeFi"
+          ]
+        }
+      ],
+      "listE": [
+        {
+          "img": "e1",
+          "mImg":"me1",
+          "desc": [
+            "Gravity",
+            "이미 BTC 및 ETH와 같은 디지털 통화를3세대 퍼블릭 체인 과의 고성능 상호운용을 실현 하였습니다."
+          ]
+        },
+        {
+          "img": "e2",
+          "mImg":"me2",
+          "desc": [
+            "PoB Dapp",
+            "Gravity 및 PoB를 기반으로 연구 개발하여, 모든 합의 확장자 및 유지자를 보상하고 모든 디지털 통화에 열립니다."
+          ]
+        }
+      ]
+    },
+    "mechanism": {
+      "_title": "机构伙伴",
+      "list": [
+        "bn",
+        "okex",
+        "zb",
+        "bithumb",
+        "bw",
+        "hitbtc"
+      ]
+    }
+  },
+  "footer": {
+    "_title": "우리를 따라",
+    "support": [
+      {
+        "list": [
+          {
+            "name": "지원"
+          },
+          {
+            "name": "개발자서포트:  developers@MarcoPolo.link",
+            "link": "developers@MarcoPolo.link"
+          },
+          {
+            "name": "비지니스 개발: cooperation@MarcoPolo.link",
+            "link": "cooperation@MarcoPolo.link"
+          },
+          {
+            "name": "미디어 협업:  media@MarcoPolo.link",
+            "link": "media@MarcoPolo.link"
+          }
+        ]
+      },
+      {
+        "list": [
+          {
+            "name": "관련 정보"
+          },
+          {
+            "name": "영어 백서",
+            "link": "https://files.marcopolo.link/pdf/marcopolo_whitePater_en.pdf"
+          },
+          {
+            "name": "경제 모델",
+            "link": "https://files.marcopolo.link/pdf/marcopolo_economic_kr.pdf"
+          }
+        ]
+      }
+    ],
+    "mSupport": {
+      "list": [
+        {
+          "name": "지원"
+        },
+        {
+          "name": "개발자서포트:  developers@MarcoPolo.link",
+          "link": "developers@MarcoPolo.link"
+        },
+        {
+          "name": "비지니스 개발: cooperation@MarcoPolo.link",
+          "link": "cooperation@MarcoPolo.link"
+        }
+      ]
+    },
+    "fun": [
+      {
+        "name": "영어 백서",
+        "link": "https://files.marcopolo.link/pdf/marcopolo_whitePater_en.pdf"
+      },
+      {
+        "name": "경제 모델",
+        "link": "https://files.marcopolo.link/pdf/marcopolo_economic_kr.pdf"
+      }
+    ],
+    "icon": [
+      {
+        "i": "telegram",
+        "link": "https://t.me/MarcoPoloMAP"
+      },
+      {
+        "i": "twitter",
+        "link": "https://twitter.com/MarcoPoloGlobal"
+      },
+      {
+        "i": "facebook",
+        "link": "https://www.facebook.com/MarcoPolo-Protocol-107054464162905"
+      },
+      {
+        "i": "bitcointalk",
+        "link": "https://bitcointalk.org/index.php?topic=5215440.new#new"
+      },
+      {
+        "i": "naver",
+        "link": "https://blog.naver.com/marcopoloprotocol"
+      },
+      {
+        "i": "medium",
+        "link": "https://medium.com/@marcopoloprotocol"
+      },
+      {
+        "i": "kakao",
+        "link": "https://open.kakao.com/o/gI5fPXSb"
+      }
+    ],
+    "download":{
+      "_title":"지금 앱 다운로드"
+    }
+  }
+}

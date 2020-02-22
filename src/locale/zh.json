@@ -1,0 +1,386 @@
+  {
+    "language": {
+      "_title": "简体中文",
+      "langs": [
+        {
+          "name": "English",
+          "tag": "en"
+        },
+        {
+          "name": "中文",
+          "tag": "zh"
+        },
+        {
+          "name": "한국어",
+          "tag": "ko"
+        }
+      ]
+    },
+    "nav": [
+      {
+        "name": "首页",
+        "path": "top"
+      },
+      {
+        "name": "开发者",
+        "path": "https://github.com/marcopoloprotocol"
+      },
+      {
+        "name": "白皮书",
+        "path": "m-footer"
+      },
+      {
+        "name": "下载钱包App",
+        "path": "http://www.marcopolopay.org/download"
+      }
+    ],
+    "nav2": {
+      "name1": "首页",
+      "name2": "介绍",
+      "name3": "路线图"
+    },
+    "home": {
+      "banner": {
+        "_title": "一种新型的点对点电子现金系统",
+        "desc": [
+          "MarcoPoloProtocol马可波罗协议（MAP）由软银战略投资的，一个新型的点对点电子现金系统基础设施，旨在通过一系列技术机制，实现区块链世界公有链TPS共享和智能调度，成为整个区块链世界的交易调度平台，点对点电子现金系统应用可以享受无限扩容的TPS和整个区块链网络最优GAS。",
+          "基于Gravity互操作性基础开源组件，开发者均可开发跨链点对点电子现金应用。基于合作网络的东南亚、东亚、北美地区等大批商户及服务商，将面向所有数字货币开放接入。"
+        ]
+      },
+      "roadmap": {
+        "_title": "路线图",
+        "content": {
+          "1": [
+            "互操作性组件Gravity开发完成，Gravity将BTC、ETH等共识强大的数字货币，与第三代高性能混合共识公链TrueChain实现可用的互操作，共享Truechain算力和性能，后期逐步通过互操作性方式扩展至其他高性能公有链"
+          ],
+          "2": [
+            "点对点零售支付DApp  Marco Pay上线",
+            "POB社区治理DAPP CandyJungle上线"
+          ],
+          "3": [
+            "自主研发MarcoPolo主网StandardChain上线，实现APOS、链上治理、InteractChain等架构设计。"
+          ],
+          "4": [
+            "实现异构跨链可操作性性，实现链间资源共享。"
+          ]
+        },
+        "content1": {
+          "1": [
+            "2019.Q1  Gravity:"
+          ],
+          "2": [
+            "2019.Q3 Electromagnet:"
+          ],
+          "3": [
+            "2020.Q4 Interaction:"
+          ],
+          "4": [
+            "2022.Q2 Grand Unification"
+          ]
+        },
+        "mcont": [
+          {
+            "stage": "第一阶段 2019.Q1",
+            "intr": "Gravity:",
+            "desc": [
+              "互操作性组件Gravity开发完成，Gravity将BTC、ETH等共识强大的数字货币，与第三代高性能公链实现可用的互操作，共享算力和性能，后期逐步通过互操作性方式扩展至更多高性能公有链。"
+            ]
+          },
+          {
+            "stage": "第二阶段 2019.Q3",
+            "intr": "Electromagnet:",
+            "desc": [
+              "点对点零售支付DApp  Marco Pay上线",
+              "POB社区治理DAPP上线"
+            ]
+          },
+          {
+            "stage": "第三阶段 2020.Q4",
+            "intr": "Interaction:",
+            "desc": [
+              "自主研发MarcoPolo主网StandardChain上线，实现APOS、链上治理、InteractChain等架构设计。"
+            ]
+          },
+          {
+            "stage": "第四阶段 2022.Q2",
+            "intr": " Grand Unification:",
+            "desc": [
+              "实现异构跨链可操作性性，实现链间资源共享。"
+            ]
+          }
+        ]
+      },
+      "info": {
+        "mTitleA": "马可波罗网络的愿景",
+        "mTitleB": "马可波罗(MAP)的技术架构特征",
+        "mTitleC": "创新的经济模型",
+        "mTitleD": "点对点电子现金系统应用的基础设施",
+        "mTitleE": "落地应用与前沿研发并重",
+        "vTitleA": "完成中本聪的点对点现金支付梦想",
+        "descriptionA": "通过互操作行共享整合全球公链算力，让点对点数字现金支付系统实现支持广泛币种，超高TPS，趋近于0的GAS费和绝对安全。真正成为具有广泛可用性的点对点数字现金支付网络",
+        "descriptionB": "马可波罗(MAP)通过一系列开放的协议和底层技术，支持点对点电子现金应用在多条公链上进行运行和调度。",
+        "descriptionC": "独创的APoS支持多种机制容许各种数字货币参与共识，同时通过大量长期的激励为用户共识维护、生态发展、开发者聚集提供保障。这一切都将通过链上治理方式进行，实现社区共建、共管、共赢。",
+        "descriptionD": "马可波罗(MAP)主要为点对点电子现金零售支付、DEX、DeFi三种点对点电子现金应用提供开放的底层部署网络，应用开发者将更便捷的实现基础技术模块，并获得高效运行性能。",
+        "descriptionE": "MAP已研发完成了互操作性最小化组件Gravity，并以此为基础完成了两款应用，将为生态应用开发者提供强大流量和落地场景支持。",
+        "listA": [
+          {
+            "img": "a1",
+            "mImg": "ma1",
+            "desc": [
+              "通过技术机制共享各公链资源，随着公有链的不断发展，实现总体TPS扩容"
+            ]
+          },
+          {
+            "img": "a2",
+            "mImg": "ma2",
+            "desc": [
+              "数字货币间交易，会被自动调度至当下GAS最低、效率最高的公链执行"
+            ]
+          },
+          {
+            "img": "a3",
+            "mImg": "ma3",
+            "desc": [
+              "覆盖整个加密世界，包括比特币、以太坊、EOS、TRUE等各种公有链以及数字货币"
+            ]
+          },
+          {
+            "img": "a4",
+            "mImg": "ma4",
+            "desc": [
+              "为DPayment、DEX、DeFi等点对点现金系统应用提供底层技术基础设施"
+            ]
+          }
+        ],
+        "listB": [
+          {
+            "img": "b1",
+            "mImg": "mb1",
+            "desc": [
+              "APoS共识机制"
+            ]
+          },
+          {
+            "img": "b2",
+            "mImg": "mb2",
+            "desc": [
+              "HotStuff协议"
+            ]
+          },
+          {
+            "img": "b3",
+            "mImg": "mb3",
+            "desc": [
+              "Magellan协议"
+            ]
+          },
+          {
+            "img": "b4",
+            "mImg": "mb4",
+            "desc": [
+              "IBC链间通讯"
+            ]
+          },
+          {
+            "img": "b5",
+            "mImg": "mb5",
+            "desc": [
+              "InteractChain远程过程调用"
+            ]
+          },
+          {
+            "img": "b6",
+            "mImg": "mb6",
+            "desc": [
+              "更安全的随机数模型"
+            ]
+          }
+        ],
+        "listC": [
+          {
+            "img": "c1",
+            "mImg": "mc1",
+            "desc": [
+              "Asset Proof of Staking",
+              "支持各种数字货币参与共识，更开放，更安全"
+            ]
+          },
+          {
+            "img": "c2",
+            "mImg": "mc2",
+            "desc": [
+              "Proof of Building",
+              "以DApp形式存在，激励社区共建"
+            ]
+          },
+          {
+            "img": "c3",
+            "mImg": "mc3",
+            "desc": [
+              "应用发展治理机制",
+              "通过链上治理机制鼓励应用发展，算力激励与应用激励"
+            ]
+          },
+          {
+            "img": "c4",
+            "mImg": "mc4",
+            "desc": [
+              "技术贡献者激励机制",
+              "通过链上治理奖励，吸引全球开发者共同参与。"
+            ]
+          }
+        ],
+        "listD": [
+          {
+            "img": "d1",
+            "mImg": "md1",
+            "desc": [
+              "Dpayment"
+            ]
+          },
+          {
+            "img": "d2",
+            "mImg": "md2",
+            "desc": [
+              "DEX"
+            ]
+          },
+          {
+            "img": "d3",
+            "mImg": "md3",
+            "desc": [
+              "DeFi"
+            ]
+          }
+        ],
+        "listE": [
+          {
+            "img": "e1",
+            "mImg": "me1",
+            "desc": [
+              "Gravity",
+              "已实现BTC、ETH等数字货币与第三代公链的高性能互操作"
+            ]
+          },
+          {
+            "img": "e2",
+            "mImg": "me2",
+            "desc": [
+              "PoB Dapp",
+              "PoB社区共建激励DAPP。激励共识拓展者和维护者，并向所有数字货币开放。"
+            ]
+          }
+        ]
+      },
+      "mechanism": {
+        "_title": "机构伙伴",
+        "list": [
+          "bn",
+          "okex",
+          "zb",
+          "bithumb",
+          "bw",
+          "hitbtc"
+        ]
+      }
+    },
+    "footer": {
+      "_title": "关注我们",
+      "support": [
+        {
+          "list": [
+            {
+              "name": "支持"
+            },
+            {
+              "name": "开发者支持  developers@MarcoPolo.link",
+              "link": "developers@MarcoPolo.link"
+            },
+            {
+              "name": "商务拓展 cooperation@MarcoPolo.link",
+              "link": "cooperation@MarcoPolo.link"
+            },
+            {
+              "name": "媒体合作  media@MarcoPolo.link",
+              "link": "media@MarcoPolo.link"
+            }
+          ]
+        },
+        {
+          "list": [
+            {
+              "name": "相关资料"
+            },
+            {
+              "name": "中文白皮书",
+              "link": "https://files.marcopolo.link/pdf/marcopolo_whitePater_cn.pdf"
+            },
+            {
+              "name": "经济模型",
+              "link": "https://files.marcopolo.link/pdf/marcopolo_economic_cn.pdf"
+            }
+          ]
+        }
+      ],
+      "mSupport": [
+        {
+          "list": [
+            {
+              "name": "支持"
+            },
+            {
+              "name": "开发者支持  developers@MarcoPolo.link",
+              "link": "developers@MarcoPolo.link"
+            },
+            {
+              "name": "商务拓展 cooperation@MarcoPolo.link",
+              "link": "cooperation@MarcoPolo.link"
+            }
+          ]
+        }
+      ],
+      "fun": [
+        {
+          "name": "中文白皮书",
+          "link": "https://files.marcopolo.link/pdf/marcopolo_whitePater_cn.pdf"
+        },
+        {
+          "name": "经济模型",
+          "link": "https://files.marcopolo.link/pdf/marcopolo_economic_cn.pdf"
+        }
+      ],
+      "icon": [
+        {
+          "i": "telegram",
+          "link": "https://t.me/MarcoPoloMAP"
+        },
+        {
+          "i": "twitter",
+          "link": "https://twitter.com/MarcoPoloGlobal"
+        },
+        {
+          "i": "facebook",
+          "link": "https://www.facebook.com/MarcoPolo-Protocol-107054464162905"
+        },
+        {
+          "i": "bitcointalk",
+          "link": "https://bitcointalk.org/index.php?topic=5215440.new#new"
+        },
+        {
+          "i": "naver",
+          "link": "https://blog.naver.com/marcopoloprotocol"
+        },
+        {
+          "i": "medium",
+          "link": "https://medium.com/@marcopoloprotocol"
+        },
+        {
+          "i": "kakao",
+          "link": "https://open.kakao.com/o/gI5fPXSb"
+        }
+      ],
+      "download":{
+        "_title":"立即下载 App"
+      }
+    }
+  }

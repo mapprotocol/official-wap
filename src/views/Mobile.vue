@@ -8,6 +8,7 @@
     <Facility />
     <FloorApp />
     <RoadMap />
+    <ProductVideo />
     <Mfooter />
   </div>
 </template>
@@ -22,6 +23,7 @@ import Facility from '../components/mobile/Facility'
 import FloorApp from '../components/mobile/FloorApp'
 import Mfooter from '../components/mobile/Mfooter'
 import RoadMap from '../components/mobile/RoadMap'
+import ProductVideo from '../components/mobile/ProductVideo'
 import { setMeta } from '@/libs/util'
 const { keyword, description, description2 } = setMeta()
 
@@ -79,7 +81,8 @@ export default {
     Facility,
     FloorApp,
     Mfooter,
-    RoadMap
+    RoadMap,
+    ProductVideo
   }
 }
 </script>

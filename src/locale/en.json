@@ -45,20 +45,20 @@
       "desc": ["MarcoPolo Protocol (MAP) is a new peer-to-peer electronic cash system infrastructure, which is invested by SoftBank. It aims to achieve blockchain world public chain TPS sharing and intelligent scheduling through a series of technical mechanisms. As the trading platform of the entire blockchain world, the peer-to-peer electronic cash system application can enjoy the unlimited expansion of TPS and optimal GAS fee among the entire blockchain network.", "Depends on the completion of Gravity module, developers around the world can design and implement peer-to-peer cross-chain payment application. A large number of merchants from Southeast Asia, East Asia and North America will be accessed to this network, and will be open to all digital assets."]
     },
     "roadmap": {
-      "_title": "Road map",
+      "_title": "Roadmap",
       "content": {
         "1": [
-          "The light interoperability module Gravity has been developed. Gravity use the high consensus digital currency such as BTC and ETH to achieve interoperability with the third generation high-performance hybrid consensus public chain TrueChain, sharing TrueChain computing power and performance."
+          "The interoperability module Gravity has been developed, which realized useable interoperability between third-generation public chains and high consensus digital currency such as BTC and ETH, will share computing power and performance gradually expand to a more high-performance public chain through interoperability."
         ],
         "2": [
-          "Online retail payment application - Marco PAY",
-          "POB Community Governance DAPP CandyJungle"
+          "Launch online retail payment application - MarcoPay",
+          "PLaunch community governance POB DAPP"
         ],
         "3": [
-          "Independently developed MarcoPolo main Network StandardChain will be launched, achieving APoS, on chain governance,  architecture design of InteractChain."
+          "Independently developed MarcoPolo's mainnet; Launch StandardChain; achieve APoS, on-chain governance, and architecture design of InteractChain"
         ],
         "4": [
-          "The realization of heterogeneous cross - chain operability, resource sharing between chains"
+          "The realization of heterogeneous cross-chain operability and resource sharing between chains"
         ]
       },
       "content1": {
@@ -77,61 +77,61 @@
       },
       "mcont": [
         {
-          "stage": "The first stage 2019.Q1",
+          "stage": "The First Stage 2019.Q1",
           "intr": "Gravity:",
           "desc": [
-            "The interoperability module Gravity has been developed, which realized useable interoperability between third-generation public chain and high consensus digital currency such as BTC and ETH, will share computing power and performance gradually expand to more high-performance public chain through interoperability."
+            "The interoperability module Gravity has been developed, which realized useable interoperability between third-generation public chains and high consensus digital currency such as BTC and ETH, will share computing power and performance gradually expand to a more high-performance public chain through interoperability."
           ]
         },
         {
-          "stage": "second stage 2019.Q3",
+          "stage": "The Second Stage 2019.Q3",
           "intr": "Electromagnet:",
           "desc": [
-            "Online retail payment application - Marco Pay",
-            "POB Community Governance DAPP"
+            "Launch online retail payment application - MarcoPay",
+            "Launch community governance POB DAPP"
           ]
         },
         {
-          "stage": "The third phase 2020.Q4",
+          "stage": "The Third Stage 2020.Q4",
           "intr": "Interaction:",
           "desc": [
-            "Independently developed MarcoPolo main Network StandardChain will be launched, achieving APoS, On chain governance,  Architecture design of InteractChain."
+            "Independently developed MarcoPolo's mainnet; Launch StandardChain; achieve APoS, on-chain governance, and architecture design of InteractChain"
           ]
         },
         {
-          "stage": "Fourth stage 2022.Q2",
+          "stage": "The Fourth Stage 2022.Q2",
           "intr": " Grand Unification:",
           "desc": [
-            "The realization of heterogeneous cross - chain operability, resource sharing between chains"
+            "The realization of heterogeneous cross-chain operability and resource sharing between chains"
           ]
         }
       ]
     },
     "info": {
       "mTitleA": "马可波罗网络的愿景",
-      "mTitleB": "The characteristics of MarcoPolo technical architecture",
-      "mTitleC": "Innovative economic models",
-      "mTitleD": "The basis for the operation of the peer-to-peer electronic cash payment application",
-      "mTitleE": "Application implementation and cutting-edge R&D are equally important",
+      "mTitleB": "The Characteristics of MarcoPolo Technical Architecture",
+      "mTitleC": "Innovative Economic Models",
+      "mTitleD": "The Basis for Supporting Peer-to-peer Electronic Cash Payment Applications",
+      "mTitleE": "Application Implementation and Cutting-edge R&D are Equally Important",
       "vTitleA": "完成中本聪的点对点现金支付梦想",
       "descriptionA": "通过互操作行共享整合全球公链算力，让点对点数字现金支付系统实现支持广泛币种，超高TPS，趋近于0的GAS费和绝对安全。真正成为具有广泛可用性的点对点数字现金支付网络",
-      "descriptionB": "The MarcoPolo(MAP) operates and schedules peer-to-peer cash systems across different public chains through a series of open protocols and components.",
-      "descriptionC": "We invented APoS to support multiple mechanisms to allow all kinds of crypto currencies to participate, while providing generous long term incentive programs for user consensus maintenance, eco-system development and developer recruitment. All these will be carried out through on-chain governance, to achieve community co-construction, co-management and win-win situation.",
+      "descriptionB": "MarcoPolo(MAP) operates and schedules peer-to-peer cash systems cross different public chains through a series of open protocols and components.",
+      "descriptionC": "We invented APoS to support multiple mechanisms to allow all kinds of crypto currencies to participate, while providing generous long term incentive programs for user consensus maintenance, eco-system development and developer recruitment. All of these will be carried out through on-chain governance, to achieve community co-construction, co-management, and win-win situation.",
       "descriptionD": "MarcoPolo(MAP) provides an open underlying deployment network for the peer-to-peer electronic cash payment applications especially in the fields of Dpayment, DEX, and DeFi, making it easier for developers to implement all basic technology functions and high performance.",
-      "descriptionE": "MAP has developed two applications based on, Gravity, the light interoperability module. Both apps will provide convincing scenarios and traffic as support for developers to contribute to the eco-system.",
+      "descriptionE": "MAP has developed two applications: Gravity and PoB DAPP. Both apps provide convincing scenarios and traffic as support for developers to contribute to the eco-system.",
       "listA": [
         {
           "img": "a1",
           "mImg":"ma1",
           "desc": [
-            "With the continuous development of the public chain, the overall TPS capacity can be expanded by sharing the resources of each public chain through technical mechanism"
+            "With the continuous development of the public chain, the overall TPS capacity can be expanded by sharing the resources of each public chain through the technical mechanism"
           ]
         },
         {
           "img": "a2",
           "mImg":"ma2",
           "desc": [
-            "Transactions between digital currencies will be automatically scheduled to the public chain with the lowest GAS and highest efficiency"
+            "Transactions between digital currencies will be automatically scheduled to the public chain with the lowest GAS fee and highest efficiency"
           ]
         },
         {
@@ -199,7 +199,7 @@
           "mImg":"mc1",
           "desc": [
             "Asset Proof of Staking",
-            "The underlying support for a variety of cryptocurrencies to  participate. It is more open and secure."
+            "The underlying support for a variety of cryptocurrencies to participate. It is more open and secure."
           ]
         },
         {
@@ -214,15 +214,15 @@
           "img": "c3",
           "mImg":"mc3",
           "desc": [
-            "On-chain Governance of DApp Eco-system",
-            "Encourage the development of applications through on chain governance mechanism, so that it is equally important as enhancing calculation power."
+            "DApp Eco-system On-chain Governance",
+            "Encourage the development of applications through on-chain governance mechanism, so that it is equally important as enhancing calculation power."
           ]
         },
         {
           "img": "c4",
           "mImg":"mc4",
           "desc": [
-            "Incentive for Contributors of the Technical Community",
+            "Incentive for Technical Community Contributors",
             "Attract developers from all over the world to participate through the rewards of on-chain governance."
           ]
         }
@@ -256,7 +256,7 @@
           "mImg":"me1",
           "desc": [
             "Gravity",
-            "It has achieved the high-performance interoperability between third generation public chain and digital currency such as BTC and ETC."
+            "It has achieved the high-performance interoperability between third-generations public chain and digital currency such as BTC and ETC."
           ]
         },
         {
@@ -264,7 +264,7 @@
           "mImg":"me2",
           "desc": [
             "PoB Dapp",
-            "Developed based on Gravity and PoB, encourage consensus builders and maintainers. It is open to all cryptocurrencies"
+            "Developed based on Gravity and PoB, encourages consensus builders and maintainers. It is open to all cryptocurrencies"
           ]
         }
       ]
@@ -290,15 +290,15 @@
             "name": "support"
           },
           {
-            "name": "Developer support:  developers@MarcoPolo.link",
+            "name": "Developer Support:  developers@MarcoPolo.link",
             "link": "developers@MarcoPolo.link"
           },
           {
-            "name": "Business development: cooperation@MarcoPolo.link",
+            "name": "Business Development: cooperation@MarcoPolo.link",
             "link": "cooperation@MarcoPolo.link"
           },
           {
-            "name": "Media cooperation:  media@MarcoPolo.link",
+            "name": "Media Cooperation:  media@MarcoPolo.link",
             "link": "media@MarcoPolo.link"
           }
         ]
@@ -309,11 +309,11 @@
             "name": "Relevant information"
           },
           {
-            "name": "English white paper",
+            "name": "English Whitepaper",
             "link": "https://files.marcopolo.link/pdf/marcopolo_whitePater_en.pdf"
           },
           {
-            "name": "Economic model",
+            "name": "Economic Model",
             "link": "https://files.marcopolo.link/pdf/marcopolo_economic_en.pdf"
           }
         ]
@@ -326,11 +326,11 @@
             "name": "support"
           },
           {
-            "name": "Developer support:  developers@MarcoPolo.link",
+            "name": "Developer Support:  developers@MarcoPolo.link",
             "link": "developers@MarcoPolo.link"
           },
           {
-            "name": "Business development: cooperation@MarcoPolo.link",
+            "name": "Business Development: cooperation@MarcoPolo.link",
             "link": "cooperation@MarcoPolo.link"
           }
         ]
@@ -338,11 +338,11 @@
     ],
     "fun": [
       {
-        "name": "English white paper",
+        "name": "English Whitepaper",
         "link": "https://files.marcopolo.link/pdf/marcopolo_whitePater_en.pdf"
       },
       {
-        "name": "Economic model",
+        "name": "Economic Model",
         "link": "https://files.marcopolo.link/pdf/marcopolo_economic_en.pdf"
       }
     ],
@@ -377,7 +377,7 @@
       }
     ],
     "download":{
-      "_title":"Download App now"
+      "_title":"Download MarcoPay"
     }
   }
 }

@@ -63,7 +63,7 @@
         </a>
       </li>
     </ul>
-    <p class='copyright'>©️ 2019 MarcoPolo Network Foundation,All Rights Reseved</p>
+    <p class='copyright'>©️ 2020 MarcoPolo Network Foundation,All Rights Reseved</p>
     <a
       class='download'
       target='_blank'

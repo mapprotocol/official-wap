@@ -9,7 +9,7 @@
       <div v-if="isAndroid">
         <a
           class='btn'
-          href="https://msfiles.marcopolo.link/app/MarcoPay.apk"
+          href="https://files.marcopolo.link/app/MarcoPay.apk"
         >
           Download APK
         </a>

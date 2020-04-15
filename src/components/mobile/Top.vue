@@ -1,7 +1,7 @@
 <template>
   <div id='top'>
     <div class='logo' />
-    <h1>{{$t('home.banner._title')}}</h1>
+    <h1 :class="$i18n.locale">{{$t('home.banner._title')}}</h1>
     <p v-for="item in $t('home.banner.desc')" :key="item">{{item}}</p>
   </div>
 </template>
@@ -32,16 +32,32 @@
   }
   h1 {
     .text();
-    font-size: 18px;
-    font-weight: 500;
-    line-height: 25px;
     text-align: center;
     margin-top: 30px;
+    width: 240px;
+    height: 42px;
+    font-size: 30px;
+    font-family: PingFangSC-Regular,PingFang SC;
+    font-weight: 400;
+    color: rgba(108,80,251,1);
+    line-height: 42px;
+    letter-spacing: 10px;
+    margin-bottom: 28px;
+    &.en, &.ko {
+      width: 90%;
+      height: auto;
+      font-size:24px;
+      font-family:PingFangSC-Regular,PingFang SC;
+      font-weight:400;
+      color:rgba(108,80,251,1);
+      line-height:28px;
+      letter-spacing: unset;
+    }
   }
   p {
     .text();
     margin-top: 30px;
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 400;
     line-height: 28px;
   }

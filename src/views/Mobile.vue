@@ -5,10 +5,10 @@
     <RenderList />
     <Feature />
     <EconomicModel />
-    <Facility />
+   <!-- <Facility />-->
     <FloorApp />
     <RoadMap />
-    <ProductVideo />
+   <!-- <ProductVideo />-->
     <Mfooter />
   </div>
 </template>

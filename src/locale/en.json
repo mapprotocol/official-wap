@@ -41,8 +41,8 @@
   },
   "home": {
     "banner": {
-      "_title": "A New Peer-to-Peer Electronic Cash System",
-      "desc": ["MarcoPolo Protocol (MAP) is a new peer-to-peer electronic cash system infrastructure, which is invested by SoftBank. It aims to achieve blockchain world public chain TPS sharing and intelligent scheduling through a series of technical mechanisms. As the trading platform of the entire blockchain world, the peer-to-peer electronic cash system application can enjoy the unlimited expansion of TPS and optimal GAS fee among the entire blockchain network.", "Depends on the completion of Gravity module, developers around the world can design and implement peer-to-peer cross-chain payment application. A large number of merchants from Southeast Asia, East Asia and North America will be accessed to this network, and will be open to all digital assets."]
+      "_title": "Chain-to-chain Interoperation Protocol",
+      "desc": ["MarcoPolo Protocol is an open, fully decentralized, chain-to-chain interoperation protocol that enables the interoperability of multiple independently verifiable consensus blockchains without a relay chain. MarcoPolo Protocol expects to construct a future inter-chain-net, which is interoperable and chain-to-chain based. The ecosystem built on MarcoPolo Protocol can provide a solid infrastructure for finance, AI, IoT, traceability, and governance filed by cross-chain communication, privacy computation, shared storage, etc..."]
     },
     "roadmap": {
       "_title": "Roadmap",
@@ -124,28 +124,28 @@
           "img": "a1",
           "mImg":"ma1",
           "desc": [
-            "With the continuous development of the public chain, the overall TPS capacity can be expanded by sharing the resources of each public chain through the technical mechanism"
+            "A rule for multiple composable trigger condition smart contracts."
           ]
         },
         {
           "img": "a2",
           "mImg":"ma2",
           "desc": [
-            "Transactions between digital currencies will be automatically scheduled to the public chain with the lowest GAS fee and highest efficiency"
+            "Provides the ability of one chain to validate the state of another chain under low bandwidth and low storage."
           ]
         },
         {
           "img": "a3",
           "mImg":"ma3",
           "desc": [
-            "It covers the entire cryptographic world, including Bitcoin, Ethereum, EOS, TRUE and other public chains as well as digital currencies"
+            "Asset Proof of Staking consensus based on verifiable random function."
           ]
         },
         {
           "img": "a4",
           "mImg":"ma4",
           "desc": [
-            "Provides the underlying technical infrastructure for peer-to-peer cash system applications such as DPayment, DEX, DeFi, etc"
+            "A block transportation channel based on IBLT which can compress the block size when relaying blocks."
           ]
         }
       ],

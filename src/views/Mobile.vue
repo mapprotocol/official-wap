@@ -19,11 +19,9 @@ import Top from '@/components/mobile/Top'
 import RenderList from '@/components/mobile/RenderList'
 import Feature from '@/components/mobile/Feature'
 import EconomicModel from '@/components/mobile/EconomicModel'
-import Facility from '../components/mobile/Facility'
 import FloorApp from '../components/mobile/FloorApp'
 import Mfooter from '../components/mobile/Mfooter'
 import RoadMap from '../components/mobile/RoadMap'
-import ProductVideo from '../components/mobile/ProductVideo'
 import { setMeta } from '@/libs/util'
 const { keyword, description, description2 } = setMeta()
 
@@ -78,11 +76,9 @@ export default {
     RenderList,
     Feature,
     EconomicModel,
-    Facility,
     FloorApp,
     Mfooter,
-    RoadMap,
-    ProductVideo
+    RoadMap
   }
 }
 </script>

@@ -3,8 +3,9 @@
     <div class='area'>
       <div class='inter'>
         <div class='logo'></div>
-        <h2>MarcoPolo</h2>
-        <p>A New Peer-to-Peer Electronic Cash System</p>
+        <h2>MarcoPolo Protocol</h2>
+        <p>Chain-to-chain Interoperation Protocol</p>
+        <img src="../assets/download/erCode.png" />
       </div>
       <div v-if="isAndroid">
         <a
@@ -100,6 +101,10 @@ export default {
         line-height: 22px;
         text-align: center;
         font-family: PingFangSC;
+      }
+      img {
+        margin: 60px auto 0 auto;
+        width: 215px;
       }
     }
     .btn {

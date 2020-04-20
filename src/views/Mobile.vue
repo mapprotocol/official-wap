@@ -2,13 +2,14 @@
   <div :id='isSpc?"isSpc":"mobile"'>
     <Mheader @anchor='anchor' />
     <Top />
-    <RenderList />
+   <!-- <RenderList />-->
     <Feature />
     <EconomicModel />
    <!-- <Facility />-->
-    <FloorApp />
+  <!--  <FloorApp />-->
     <RoadMap />
    <!-- <ProductVideo />-->
+    <PartnerMod />
     <Mfooter />
   </div>
 </template>
@@ -16,12 +17,11 @@
 import { mapState, mapMutations } from 'vuex'
 import Mheader from '@/components/Mheader'
 import Top from '@/components/mobile/Top'
-import RenderList from '@/components/mobile/RenderList'
 import Feature from '@/components/mobile/Feature'
 import EconomicModel from '@/components/mobile/EconomicModel'
-import FloorApp from '../components/mobile/FloorApp'
 import Mfooter from '../components/mobile/Mfooter'
 import RoadMap from '../components/mobile/RoadMap'
+import PartnerMod from '../components/mobile/PartnerMod'
 import { setMeta } from '@/libs/util'
 const { keyword, description, description2 } = setMeta()
 
@@ -73,12 +73,11 @@ export default {
   components: {
     Mheader,
     Top,
-    RenderList,
     Feature,
     EconomicModel,
-    FloorApp,
     Mfooter,
-    RoadMap
+    RoadMap,
+    PartnerMod
   }
 }
 </script>

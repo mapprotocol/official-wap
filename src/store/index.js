@@ -20,14 +20,14 @@ export default new Vuex.Store({
       state.isSelect = scroolTop > 90
       state.isSelectModel =
         scroolTop + 100 > document.querySelector('#economic-model').offsetTop
-      state.isSelectPP =
-        scroolTop + 300 > document.querySelector('#facility').offsetTop
-      state.isSelectApp =
-        scroolTop + 100 > document.querySelector('#floor-app').offsetTop
+      // state.isSelectPP =
+      //   scroolTop + 300 > document.querySelector('#facility').offsetTop
+      // state.isSelectApp =
+      //   scroolTop + 100 > document.querySelector('#floor-app').offsetTop
       state.isSelectFooter =
         scroolTop + 450 > document.querySelector('#m-footer').offsetTop
-      state.isSelectFeature =
-        scroolTop + 300 > document.querySelector('#feature').offsetTop
+      // state.isSelectFeature =
+      //   scroolTop + 300 > document.querySelector('#feature').offsetTop
     },
     setIsSpc (state, isSpc) {
       state.isSpc = isSpc

@@ -110,7 +110,7 @@
     "info": {
       "mTitleA": "马可波罗网络的愿景",
       "mTitleB": "마르코폴로의 기술 아키텍처 특성",
-      "mTitleC": "혁신적인 경제 모델",
+      "mTitleC": "커뮤니티 인센티브 메커니즘",
       "mTitleD": "P2P 전자 현금 애플리케이션의 인프라",
       "mTitleE": "상륙 응용 프로그램 및 연구 개발 병행",
       "vTitleA": "完成中本聪的点对点现金支付梦想",
@@ -154,42 +154,42 @@
           "img": "b1",
           "mImg":"mb1",
           "desc": [
-            "APoS 컨센서스 프로토콜"
+            "Super Light Cross-chain 검증 알고리즘"
           ]
         },
         {
           "img": "b2",
           "mImg":"mb2",
           "desc": [
-            "HotStuff 통신 프로토콜"
+            "복합형 스마트 계약 규칙"
           ]
         },
         {
           "img": "b3",
           "mImg":"mb3",
           "desc": [
-            "Magellan크로스 체인 스케줄링 프로토콜"
+            "표준화된 Peer 탐색 및 통신 P2P 프로토콜"
           ]
         },
         {
           "img": "b4",
           "mImg":"mb4",
           "desc": [
-            "IBC 체인간 커뮤니케이션 "
+            "고효율 블록 전송 채널"
           ]
         },
         {
           "img": "b5",
           "mImg":"mb5",
           "desc": [
-            "InteractChain원격 프로시저 스케줄링"
+            "APOS 컨센서스 프로토콜"
           ]
         },
         {
           "img": "b6",
           "mImg":"mb6",
           "desc": [
-            "안전한 랜덤수 모델"
+            "MarcoPolo Application Tool Environment"
           ]
         }
       ],
@@ -198,32 +198,24 @@
           "img": "c1",
           "mImg":"mc1",
           "desc": [
-            "Asset Proof of Staking",
-            "말단기술이 여러가지 디지털 통화가 컨센서스의 참여를 지지하고, 더 개방적이고 더 안전하다. "
+            "PoB 인센티브",
+            "PoB구축을 통하여 커뮤니 티의 공동건설을 추진한다."
           ]
         },
         {
           "img": "c2",
           "mImg":"mc2",
           "desc": [
-            "Proof of Building",
-            "DApp형식으로 존재하여, 커뮤니티 공건을 자극한다"
-          ]
-        },
-        {
-          "img": "c3",
-          "mImg":"mc3",
-          "desc": [
-            "애플리케이션 발전 거버넌스 메커니즘",
-            "체인상 거버넌스 메커니즘을 통하여 애플리케이션의 발전을 추진하고 컴퓨팅 파워 및 애플리케이션 인센티브는 모두 중점이다. "
+            "생태 인센티브",
+            "체인을 통해 메커니즘을 관리하여 응용 발전을 장려하다."
           ]
         },
         {
           "img": "c4",
           "mImg":"mc4",
           "desc": [
-            "기술공헌자 인센티브 메커니즘",
-            "체인상 거버넌스 인센티브로 전세계 개발자의 공동참여를 이끈다."
+            "기술 인센티브",
+            "체인 거버넌스 및 인센티브를 통해 글로벌 개발자의 공동참여를 이끈다."
           ]
         }
       ],
@@ -266,6 +258,55 @@
             "PoB Dapp",
             "Gravity 및 PoB를 기반으로 연구 개발하여, 모든 합의 확장자 및 유지자를 보상하고 모든 디지털 통화에 열립니다."
           ]
+        }
+      ]
+    },
+    "partnerInfo": {
+      "title": "파트너",
+      "list": [
+        {
+          "img": "softBank",
+          "link": "https://www.softbank.jp"
+        },
+        {
+          "img": "kuCoin",
+          "link": "https://trade.kucoin.com/spot"
+        },
+        {
+          "img": "yahoo",
+          "link": "https://news.yahoo.com/news/why-join-marcopolo-protocol-131500994.html"
+        },
+        {
+          "img": "coinMarket",
+          "link": "https://coinmarketcap.com/currencies/marcopolo-protocol/"
+        },
+        {
+          "img": "coinGecko",
+          "link": "https://www.coingecko.com/en/coins/marcopolo-protocol"
+        },
+        {
+          "img": "feiXiaoHao",
+          "link": "http://www.feixiaohao.com/currencies/marcopoloprotocol%20/"
+        },
+        {
+          "img": "crypto",
+          "link": "https://www.cryptocompare.com/coins/map/overview"
+        },
+        {
+          "img": "haoDeLian",
+          "link": "https://www.mytokencap.com/currency/map/821733067"
+        },
+        {
+          "img": "kSher",
+          "link": "https://www.ksher.com/"
+        },
+        {
+          "img": "kidd",
+          "link": "http://www.kidd.co.kr/news/213087"
+        },
+        {
+          "img": "zametki",
+          "link": "https://cryptorussia.ru/zametki/pochemu-stoit-prisoedinitsya-k-protokolu-marcopolo"
         }
       ]
     },

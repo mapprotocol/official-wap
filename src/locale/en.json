@@ -109,8 +109,8 @@
     },
     "info": {
       "mTitleA": "马可波罗网络的愿景",
-      "mTitleB": "The Characteristics of MarcoPolo Technical Architecture",
-      "mTitleC": "Innovative Economic Models",
+      "mTitleB": "The Characteristics of MarcoPolo Protocol  Architecture",
+      "mTitleC": "Community Incentive Mechanism",
       "mTitleD": "The Basis for Supporting Peer-to-peer Electronic Cash Payment Applications",
       "mTitleE": "Application Implementation and Cutting-edge R&D are Equally Important",
       "vTitleA": "完成中本聪的点对点现金支付梦想",
@@ -154,42 +154,42 @@
           "img": "b1",
           "mImg":"mb1",
           "desc": [
-            "APoS consensus"
+            "Super Light Cross-chain Verification Algorithm"
           ]
         },
         {
           "img": "b2",
           "mImg":"mb2",
           "desc": [
-            "HotStuff communication protocol"
+            "Composable Smart Contract Rule"
           ]
         },
         {
           "img": "b3",
           "mImg":"mb3",
           "desc": [
-            "Magellan cross-chain scheduling protocol"
+            "Standardized Peer Discovery and Communication P2P Protocol"
           ]
         },
         {
           "img": "b4",
           "mImg":"mb4",
           "desc": [
-            "IBC Inter Blockchain Communication"
+            "High-efficiency Block Transport Channel"
           ]
         },
         {
           "img": "b5",
           "mImg":"mb5",
           "desc": [
-            "InteractChain Remote scheduling"
+            "APOS Consensus Protocol"
           ]
         },
         {
           "img": "b6",
           "mImg":"mb6",
           "desc": [
-            "Secure random number model"
+            "MarcoPolo Application Tool Environment"
           ]
         }
       ],
@@ -198,32 +198,24 @@
           "img": "c1",
           "mImg":"mc1",
           "desc": [
-            "Asset Proof of Staking",
-            "The underlying support for a variety of cryptocurrencies to participate. It is more open and secure."
+            "PoB Incentive",
+            "Encourage community construction through PoB construction."
           ]
         },
         {
           "img": "c2",
           "mImg":"mc2",
           "desc": [
-            "Proof of Building",
-            "It exists in the form of DApp and is to motive members to build the communities collectively."
-          ]
-        },
-        {
-          "img": "c3",
-          "mImg":"mc3",
-          "desc": [
-            "DApp Eco-system On-chain Governance",
-            "Encourage the development of applications through on-chain governance mechanism, so that it is equally important as enhancing calculation power."
+            "Eco-system Incentive",
+            "Encourage on-chain governance mechanism."
           ]
         },
         {
           "img": "c4",
           "mImg":"mc4",
           "desc": [
-            "Incentive for Technical Community Contributors",
-            "Attract developers from all over the world to participate through the rewards of on-chain governance."
+            "Technology Incentive",
+            "Attracting global developers through on-chain governance and incentives."
           ]
         }
       ],
@@ -266,6 +258,55 @@
             "PoB Dapp",
             "Developed based on Gravity and PoB, encourages consensus builders and maintainers. It is open to all cryptocurrencies"
           ]
+        }
+      ]
+    },
+    "partnerInfo": {
+      "title": "Partners and Investors",
+      "list": [
+        {
+          "img": "softBank",
+          "link": "https://www.softbank.jp"
+        },
+        {
+          "img": "kuCoin",
+          "link": "https://trade.kucoin.com/spot"
+        },
+        {
+          "img": "yahoo",
+          "link": "https://news.yahoo.com/news/why-join-marcopolo-protocol-131500994.html"
+        },
+        {
+          "img": "coinMarket",
+          "link": "https://coinmarketcap.com/currencies/marcopolo-protocol/"
+        },
+        {
+          "img": "coinGecko",
+          "link": "https://www.coingecko.com/en/coins/marcopolo-protocol"
+        },
+        {
+          "img": "feiXiaoHao",
+          "link": "http://www.feixiaohao.com/currencies/marcopoloprotocol%20/"
+        },
+        {
+          "img": "crypto",
+          "link": "https://www.cryptocompare.com/coins/map/overview"
+        },
+        {
+          "img": "haoDeLian",
+          "link": "https://www.mytokencap.com/currency/map/821733067"
+        },
+        {
+          "img": "kSher",
+          "link": "https://www.ksher.com/"
+        },
+        {
+          "img": "kidd",
+          "link": "http://www.kidd.co.kr/news/213087"
+        },
+        {
+          "img": "zametki",
+          "link": "https://cryptorussia.ru/zametki/pochemu-stoit-prisoedinitsya-k-protokolu-marcopolo"
         }
       ]
     },

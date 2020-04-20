@@ -156,42 +156,42 @@
             "img": "b1",
             "mImg": "mb1",
             "desc": [
-              "APoS共识机制"
+              "超轻量级跨链验证协议"
             ]
           },
           {
             "img": "b2",
             "mImg": "mb2",
             "desc": [
-              "HotStuff协议"
+              "可组合触发式智能脚本规范"
             ]
           },
           {
             "img": "b3",
             "mImg": "mb3",
             "desc": [
-              "Magellan协议"
+              "通用区块链节点发现与通讯协议"
             ]
           },
           {
             "img": "b4",
             "mImg": "mb4",
             "desc": [
-              "IBC链间通讯"
+              "高效区块传输通道"
             ]
           },
           {
             "img": "b5",
             "mImg": "mb5",
             "desc": [
-              "InteractChain远程过程调用"
+              "APoS"
             ]
           },
           {
             "img": "b6",
             "mImg": "mb6",
             "desc": [
-              "更安全的随机数模型"
+              "MATE"
             ]
           }
         ],
@@ -200,32 +200,24 @@
             "img": "c1",
             "mImg": "mc1",
             "desc": [
-              "Asset Proof of Staking",
-              "支持各种数字货币参与共识，更开放，更安全"
+              "PoB激励",
+              "通过PoB建设激励社区共建"
             ]
           },
           {
             "img": "c2",
             "mImg": "mc2",
             "desc": [
-              "Proof of Building",
-              "以DApp形式存在，激励社区共建"
-            ]
-          },
-          {
-            "img": "c3",
-            "mImg": "mc3",
-            "desc": [
-              "应用发展治理机制",
-              "通过链上治理机制鼓励应用发展，算力激励与应用激励"
+              "生态激励",
+              "通过链上治理机制鼓励应用发展"
             ]
           },
           {
             "img": "c4",
             "mImg": "mc4",
             "desc": [
-              "技术贡献者激励机制",
-              "通过链上治理奖励，吸引全球开发者共同参与。"
+              "技术激励",
+              "通过链上治理与激励措施吸引全球开发者共同参与"
             ]
           }
         ],
@@ -268,6 +260,55 @@
               "PoB Dapp",
               "PoB社区共建激励DAPP。激励共识拓展者和维护者，并向所有数字货币开放。"
             ]
+          }
+        ]
+      },
+      "partnerInfo": {
+        "title": "合作伙伴和投资机构",
+        "list": [
+          {
+            "img": "softBank",
+            "link": "https://www.softbank.jp"
+          },
+          {
+            "img": "kuCoin",
+            "link": "https://trade.kucoin.com/spot"
+          },
+          {
+            "img": "yahoo",
+            "link": "https://news.yahoo.com/news/why-join-marcopolo-protocol-131500994.html"
+          },
+          {
+            "img": "coinMarket",
+            "link": "https://coinmarketcap.com/currencies/marcopolo-protocol/"
+          },
+          {
+            "img": "coinGecko",
+            "link": "https://www.coingecko.com/en/coins/marcopolo-protocol"
+          },
+          {
+            "img": "feiXiaoHao",
+            "link": "http://www.feixiaohao.com/currencies/marcopoloprotocol%20/"
+          },
+          {
+            "img": "crypto",
+            "link": "https://www.cryptocompare.com/coins/map/overview"
+          },
+          {
+            "img": "haoDeLian",
+            "link": "https://www.mytokencap.com/currency/map/821733067"
+          },
+          {
+            "img": "kSher",
+            "link": "https://www.ksher.com/"
+          },
+          {
+            "img": "kidd",
+            "link": "http://www.kidd.co.kr/news/213087"
+          },
+          {
+            "img": "zametki",
+            "link": "https://cryptorussia.ru/zametki/pochemu-stoit-prisoedinitsya-k-protokolu-marcopolo"
           }
         ]
       },

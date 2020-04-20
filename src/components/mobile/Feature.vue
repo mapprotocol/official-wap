@@ -1,9 +1,9 @@
 <template>
   <div id='feature'>
     <Mtitlt :title='$t("home.info.mTitleB")' />
-    <p class='desc'>
+   <!-- <p class='desc'>
       {{$t("home.info.descriptionB")}}
-    </p>
+    </p>-->
     <ul>
       <li
         v-for="(l,i) in $t('home.info.listB')"

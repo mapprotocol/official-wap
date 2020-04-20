@@ -1,9 +1,9 @@
 <template>
   <div id='economic-model'>
     <Mtitle :title='$t("home.info.mTitleC")' />
-    <p class='desc'>
+    <!--<p class='desc'>
       {{$t("home.info.descriptionC")}}
-    </p>
+    </p>-->
     <ul>
       <li
         v-for="(l,i) in $t('home.info.listC')"

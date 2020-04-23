@@ -9,7 +9,7 @@
   <!--  <FloorApp />-->
     <RoadMap />
    <!-- <ProductVideo />-->
-    <PartnerMod />
+  <!--  <PartnerMod />-->
     <Mfooter />
   </div>
 </template>

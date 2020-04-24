@@ -34,24 +34,18 @@
     .text();
     text-align: center;
     margin-top: 30px;
-    width: 240px;
-    height: 42px;
-    font-size: 30px;
-    font-family: PingFangSC-Regular,PingFang SC;
-    font-weight: 400;
-    color: rgba(108,80,251,1);
-    line-height: 42px;
-    letter-spacing: 10px;
     margin-bottom: 28px;
+    width: 90%;
+    height: auto;
+    font-size:24px;
+    font-family:PingFangSC-Regular,PingFang SC;
+    font-weight:400;
+    color:rgba(108,80,251,1);
+    line-height:28px;
+    letter-spacing: unset;
+
     &.en, &.ko {
-      width: 90%;
-      height: auto;
-      font-size:24px;
-      font-family:PingFangSC-Regular,PingFang SC;
-      font-weight:400;
-      color:rgba(108,80,251,1);
-      line-height:28px;
-      letter-spacing: unset;
+
     }
   }
   p {

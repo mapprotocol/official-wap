@@ -101,7 +101,7 @@ export default {
     .flex();
     width: 80%;
     margin-top: 55px;
-    justify-content: space-between;
+  /*  justify-content: space-between;*/
     a {
       .flex();
       width: 45%;
